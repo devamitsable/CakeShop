@@ -1,0 +1,25 @@
+index.html
+  h_6acf6136157d16 77-79
+  s_31645909d5d81e::t_3ae8ee1183d8f8 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "f92739fa4dbfc751d2ed36490496b03cbfb9018f",
+  "prompts": {},
+  "humans": {
+    "h_6acf6136157d16": {
+      "author": "devamitsable <amitsable11@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_31645909d5d81e": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "d74df71f-c810-466f-85e2-8b7c4e83cc56",
+        "model": "gpt-4.1"
+      },
+      "human_author": "devamitsable <amitsable11@gmail.com>"
+    }
+  }
+}
